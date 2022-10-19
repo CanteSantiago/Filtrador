@@ -15,8 +15,9 @@ public class Actividadasesorias {
         int i=1;
         
         
-        
-       while( i<=20 ) {
+        // añosfgbkavesln arianna grande tu patrona
+        //la cuerpa caraolina 68 la cuerpa 
+       while( i<=10 ) {
             
             
             do {
