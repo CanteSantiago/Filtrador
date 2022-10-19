@@ -15,8 +15,8 @@ public class Actividadasesorias {
         int i=1;
         
         
-        
-       while( i<=20 ) {
+        //la cuerpa 68 mi patrona , con ella nada me faltara
+       while( i<=10 ) {
             
             
             do {
